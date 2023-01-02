@@ -1,0 +1,10 @@
+{
+    "WIFI_SSID" : "chittellas",
+    "WIFI_PASSWORD" : "Winner99$",
+    "MQTT_CLIENT_KEY": "pi-pico-private.pem.key",
+    "MQTT_CLIENT_CERT": "pi-pico-certificate.pem.crt",
+    "MQTT_BROKER": "a1t77i54r44yhq-ats.iot.us-east-1.amazonaws.com",
+    "MQTT_BROKER_CA" : "AmazonRootCA1.pem"
+    }
+    
+    
